@@ -1,0 +1,62 @@
+{
+        "coins" : [
+            {
+                "coin": "CELO",
+                "ticker": "CELO",
+                "address": "0x471ece3750da237f93b8e339c536989b8978a438"
+
+            },
+            {
+                "coin": "Celo Dollar",
+                "ticker": "CUSD",
+                "Address": "0x765de816845861e75a25fca122bb6898b8b1282a"
+            },
+            {
+                "coin": "Celo Euro",
+                "ticker": "CEUR",
+                "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73"
+            }
+        ],
+
+        "wallets": [
+            {
+                "owner": "Multi-sig",
+                "address": "0x94DA152977a0143Ec1f7170c7989bf48295345AD",
+                "network": "CELO"
+            },
+            {
+                "owner": "Satyrn1",
+                "address": "0x753Dc53bf45a4DBD5e248a3Bc3DB8eB3869105cE",
+                "network": "CELO"
+            },
+            {
+                "owner": "Wally",
+                "address": "0x1fF807aDa4DDCc0638B0681A557E9C2582678a03",
+                "network": "CELO"
+            },
+            {
+                "owner": "Satyrn2",
+                "address": "0x5295C77F56C77C9296B450952b47aAE91BF941F1",
+                "network": "CELO"
+            },
+            {
+            "networks": [
+                {
+                    "name": "CELO",
+                    "url": "https://forno.celo.org",
+                    "chainid": "42220",
+                    "currency": "CELO",
+                    "blockexplorer": "https://explorer.celo.org"
+                },
+                {
+                    "name": "Celo Alfajores Testnet",
+                    "url": "https://alfajores-forno.celo-testnet.org",
+                    "chainid": "44787",
+                    "currency": "CELO",
+                    "blockexplorer": "https://alfajores-blockscout.celo-testnet.org"
+                }
+            ]
+
+            }          
+        ]
+}
